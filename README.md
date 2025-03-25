@@ -1,6 +1,8 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""
 API Development in Django/Python - For Josh Talks
-"""""""""""""""""""""""""""""""""""""""""""""""""""
+
+Your task is to design and implement a set of APIs for a task management app using Django &
+Django Rest Framework that allows users to create tasks, assign tasks to users, and retrieve
+tasks assigned to specific users. The system should follow these requirements:
 
 # Tech Stack
 
