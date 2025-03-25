@@ -1,4 +1,4 @@
-API Development in Django/Python - For Josh Talks
+API Development in Django/Python - For Josh Talks By- PRABHAT
 
 Task is to design and implement a set of APIs for a task management app using Django &
 Django Rest Framework that allows users to create tasks, assign tasks to users, and retrieve
